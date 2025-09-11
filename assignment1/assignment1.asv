@@ -206,7 +206,6 @@ positiveCount = sum(originalVec > 0);
 absoluteVec = abs(originalVec);
 
 % - find the maximum.
-
 maxValue = max(originalVec);
 
 
@@ -257,7 +256,7 @@ disp('Hello World');
 userInput = input('Enter any text: ', 's');
 disp(userInput);
 
-%% 
+%%
 
 
 
